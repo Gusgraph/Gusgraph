@@ -1,6 +1,6 @@
 # Gusgraph
 
-I build and operate production web, automation, and infrastructure systems. My private repositories contain the working source code; this profile shows selected project proof, product surfaces, and capability areas without exposing private implementation details.
+I build and operate production web, automation, and infrastructure systems. ; this profile shows selected projects, product surfaces, and capability areas.
 
 ## Selected Project Proof
 
