@@ -9,8 +9,6 @@ I build and operate production web, automation, and infrastructure systems. ; th
 Live product surfaces:
 
 - Main site: https://bismel1.com
-- Plans / customer flow: https://bismel1.com/plans/PROMO
-- Halal AI trading product: https://bismel1.com/products/halal-ai-trading
 
 Work represented:
 
