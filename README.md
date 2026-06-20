@@ -29,6 +29,18 @@ Work represented:
 - Developed product positioning around AI-assisted trading automation, stock/ETF workflows, risk controls, and account activity visibility.
 - Managed cloud, domain, DNS, SSL, and transactional email setup for production launch work.
 
+### Sirraty: Private Social Network Platform
+
+Live product surface: https://sirraty.com
+
+Work represented:
+
+- Built and maintained a multilingual Laravel social platform with public pages, groups, blog, marketplace, profiles, and interest feed surfaces.
+- Implemented compact responsive UI patterns, language switching, native-script language badges, and right-to-left locale support.
+- Improved SEO/GEO presentation with canonical URL handling, sitemap structure, Search Console verification, and entity-focused homepage copy.
+- Managed production hosting, DNS, SSL, redirects, Cloudinary media assets, and Google indexing checks across www and non-www domains.
+- Kept private application code and operational details out of the public profile while showcasing the product surface and platform capabilities.
+
 ### Business Dashboards and Admin Systems
 
 Private implementation work, public capability summary:
