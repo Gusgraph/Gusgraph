@@ -12,7 +12,7 @@ Most of my client and product work lives in private repositories, so this profil
 - Automation systems for repetitive operations, alerts, reporting, and data movement
 - AI-assisted workflows, internal tools, and practical business automation
 - React Native / Expo mobile app prototypes and MVPs
-- Laravel / PHP applications, JavaScript frontends, and API-connected systems
+- PHP applications, JavaScript frontends, and API-connected systems
 - Cloud, VPS, DNS, SSL, email, and deployment troubleshooting
 
 ## Selected Work
@@ -35,7 +35,7 @@ Live product surface: https://sirraty.com
 
 Work represented:
 
-- Built and maintained a multilingual Laravel social platform with public pages, groups, blog, marketplace, profiles, and interest feed surfaces.
+- Built and maintained a multilingual social platform with public pages, groups, blog, marketplace, profiles, and interest feed surfaces.
 - Implemented compact responsive UI patterns, language switching, native-script language badges, and right-to-left locale support.
 - Improved SEO/GEO presentation with canonical URL handling, sitemap structure, Search Console verification, and entity-focused homepage copy.
 - Managed production hosting, DNS, SSL, redirects, Cloudinary media assets, and Google indexing checks across www and non-www domains.
@@ -72,7 +72,7 @@ Hands-on operations work:
 ## Tools and Stack
 
 **Frontend:** React, JavaScript, TypeScript, Tailwind CSS, responsive UI, dashboards, admin interfaces  
-**Backend:** Laravel, PHP, Node.js, REST APIs, authentication, queues, integrations  
+**Backend:** PHP, Node.js, REST APIs, authentication, queues, integrations  
 **Mobile:** React Native, Expo, Firebase / Firestore, app prototypes and MVP flows  
 **Cloud and Ops:** AWS, Google Cloud, Linux VPS, Nginx/Apache, DNS, SSL, SES, CloudWatch  
 **Automation:** APIs, webhooks, Zapier/Make-style workflows, scripts, data pipelines  
@@ -93,7 +93,7 @@ Hands-on operations work:
 - Connect two or more systems through APIs or automation.
 - Create a working MVP from an idea, design, or partially built prototype.
 - Fix broken deployment, SSL, DNS, email, API, or server issues.
-- Improve an existing Laravel/PHP, React, or JavaScript application.
+- Improve an existing PHP, React, or JavaScript application.
 - Build a small mobile app prototype with React Native / Expo / Firebase.
 - Add reporting, admin tools, customer records, or operational visibility to an existing system.
 
