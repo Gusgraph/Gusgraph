@@ -41,6 +41,18 @@ Work represented:
 - Managed production hosting, DNS, SSL, redirects, Cloudinary media assets, and Google indexing checks across www and non-www domains.
 - Kept private application code and operational details out of the public profile while showcasing the product surface and platform capabilities.
 
+### TFA Flight: Aviation Operations System
+
+Active aviation business and school operations platform: https://tfaflight.com
+
+Work represented:
+
+- Built and maintained a Laravel-based operations portal for an active flight academy business.
+- Developed scheduling, reservation history, aircraft/instructor resources, inventory, accounting, time logs, and client account workflows.
+- Migrated operational data from legacy flight scheduling systems into structured aviation resource, reservation, instructor, aircraft, and customer records.
+- Designed admin and portal interfaces around practical daily operations instead of a marketing-only site.
+- Managed production hosting, DNS, SSL, GitHub deployment setup, email service configuration, and private operational data handling.
+
 ### Business Dashboards and Admin Systems
 
 Private implementation work, public capability summary:
